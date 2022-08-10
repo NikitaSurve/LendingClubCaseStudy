@@ -1,19 +1,13 @@
-# Project Name
+# Lending Club
 >Lending club is a lending companies, lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). Credit loss is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed. In other words, borrowers who default cause the largest amount of loss to the lenders. 
 Therefore, the objective of this case is to identify patterns or the factors which indicate if a person is likely to default, which may be used for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate, etc.
 
 
 ## Table of Contents
-* Data Exploration
-* Data Cleaning
-* Columns Selected for Analysis
-* Univariate Segmented Analysis of Numerical Feature
-* Univariate Segmented Analysis of Categorical Feature
-* Conclusion of Segmented Univariate Analysis
-* Numerical -Numerical Bivariate Analysis
-* Numerical -Categorical Bivariate Analysis
-* Conclusion from Numerical-Categorical Bivariate Analysis
-* Important Driver Variables
+* General Information
+* Conclusion
+* Acknowledgement
+* Contact
 
 
 ## General Information
